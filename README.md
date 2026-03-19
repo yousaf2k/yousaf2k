@@ -21,7 +21,7 @@
 
 Senior Full Stack Software Engineer with **19+ years of experience** delivering enterprise-grade solutions across global markets (USA, Europe, Oceania, Asia).
 
-Expert in **.NET architecture, fintech systems, and scalable backend platforms**, with strong experience modernizing legacy systems and integrating **AI-driven capabilities (LLMs, ML.NET, automation pipelines)**.
+Expert in **.NET architecture, fintech systems, and scalable backend platforms**, with strong experience modernizing legacy systems and integrating **AI-driven capabilities (LLMs, automation pipelines)**.
 
 Recognized for delivering **high-performance, secure, and maintainable systems** aligned with business objectives.
 
