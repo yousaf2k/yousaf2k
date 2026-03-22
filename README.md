@@ -49,7 +49,7 @@ Recognized for delivering **high-performance, secure, and maintainable systems**
 - Integrated third-party financial systems
 - Ensured scalability, compliance, and reliability
 
-### 🏢 NETSOL Technologies (NASDAQ)
+### 🏢 NETSOL Technologies
 - Architected **microservices-based fintech platform**
 - Improved DB performance by **50%**
 - Built **CI/CD pipelines, data automation systems**
@@ -126,7 +126,7 @@ Recognized for delivering **high-performance, secure, and maintainable systems**
 # 🏆 Key Achievements
 
 - 19+ years of enterprise software engineering experience  
-- Delivered global fintech solutions (FIS, NETSOL - NASDAQ)  
+- Delivered global fintech solutions (FIS, NETSOL)  
 - Architected scalable microservices platforms  
 - Improved database performance by up to 50%  
 - Built AI-integrated systems using LLMs and automation pipelines
